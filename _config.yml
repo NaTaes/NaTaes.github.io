@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "NATS Blog"
 title_separator          : "-"
-subtitle                 : "version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : "since 2021.07.01" # site tagline that appears below site title in masthead
 name                     : "TaeSeung Han"
-description              : "NATS Development History"
+description              : "Development History"
 url                      : "https://nataes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "개발 기록장" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Memory Register" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -99,6 +99,8 @@ author:
   bio              : "Firmware Engineer"
   location         : "Republic of Korea"
   email            : "xotmd17@naver.com"
+  github           : "github.com/NaTaes"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -282,3 +284,4 @@ defaults:
       related: true
       mathjax: true
       sidebar_main: true
+      dark_theme_toggle: true
