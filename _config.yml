@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "NATS Blog"
 title_separator          : "-"
 subtitle                 : "since 2021.07.01" # site tagline that appears below site title in masthead
-name                     : "TaeSeung Han"
+name                     : "TaeSeung Ha"
 description              : "Development History"
 url                      : "https://nataes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taeseung Han__"
+  name             : "Taeseung Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Firmware Engineer"
   # location         : "Republic of Korea"
