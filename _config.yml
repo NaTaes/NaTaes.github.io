@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "NATS Blog"
 title_separator          : "-"
 subtitle                 : "since 2021.07.01" # site tagline that appears below site title in masthead
-name                     : "TaeSeung Ha"
+name                     : "TaeSeung Han"
 description              : "Development History"
 url                      : "https://nataes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
